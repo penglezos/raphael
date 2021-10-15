@@ -12,3 +12,8 @@ Personal LineageOS 18.1 builds for the Mi 9T/K20 Pro with some extra fixes, impr
 - Blur toggle moved to Display section
 
 ```
+
+### Known issues:
+```
+- Offline charge (to be fixed)
+```
