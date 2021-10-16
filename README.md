@@ -5,7 +5,6 @@ Personal LineageOS 18.1 builds for the Mi 9T/K20 Pro with some extra fixes, impr
 
 ### Extra Features (NOT found on LineageOS sources):
 ```
-- LTE+ icon on status bar
 - NFC icon on status bar (when enabled)
 - Burn-in icon protection
 - Battery saver behavior as seen on AOSP
