@@ -7,7 +7,6 @@ Personal LineageOS 18.1 builds for the Mi 9T/K20 Pro with some extra fixes, impr
 ```
 - NFC icon on status bar (when enabled)
 - Burn-in icon protection
-- Battery saver behavior as seen on AOSP
 - Blur toggle moved to Display section
 ```
 
