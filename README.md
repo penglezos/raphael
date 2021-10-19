@@ -12,7 +12,7 @@ Personal LineageOS 18.1 builds for the Mi 9T/K20 Pro with some extra fixes, impr
 
 ### Known issues:
 ```
-- Offline charge (to be fixed)
+- None as of now
 ```
 
 ### Installation instructions:
