@@ -1,6 +1,6 @@
 # Android ROM releases for MI 9T/K20 Pro (raphael)
 
-### Installation instructions:
+### Installation instructions
 ```
 - Go to recovery (Official TWRP is recommended)
 - Wipe Data/Cache/System/Vendor
@@ -10,3 +10,8 @@
 - Flash DFE (optional step if you are decrypted)
 - Reboot
 ```
+
+### Bug report
+You can report any kind of bugs,issues by submitting a new [Github issue.](https://github.com/penglezos/raphael/issues)
+
+Please provide a detailed description of your issue as well upload a log file whenever possible.
