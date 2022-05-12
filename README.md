@@ -2,7 +2,7 @@
 
 ### Installation instructions
 
-- Go to recovery (Official TWRP or ArrowOS is recommended)
+- Go to recovery (Official TWRP or ArrowOS recovery is recommended)
 - Flash the latest Android 11 firmware of your device variant.
 - Wipe Data/Cache/System/Vendor
 - Flash the ROM
