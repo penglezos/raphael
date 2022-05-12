@@ -7,6 +7,6 @@
 - It is recommended to flash latest Android 11 firmware according to your region
 - Flash the ROM
 - Flash your favourite gapps (optional step)
-- Flash DFE (optional step if you are not encrypted)
+- Flash DFE (optional step if you are decrypted)
 - Reboot
 ```
