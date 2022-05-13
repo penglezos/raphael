@@ -11,7 +11,7 @@
 - Reboot
 
 ### Disclaimer
-- You can flash custom kernels but no support will be provided.
+You can flash custom kernels but no support will be provided.
 
 ### Bug report
 You can report any kind of bugs,issues by submitting a new [Github issue.](https://github.com/penglezos/raphael/issues)
