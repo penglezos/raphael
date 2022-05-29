@@ -6,7 +6,6 @@
 - Flash the latest Android 11 firmware of your device variant.
 - Wipe Data/Cache/System/Vendor
 - Flash the ROM
-- Flash DFE (optional step if you are decrypted)
 - Reboot
 
 ### Disclaimer
